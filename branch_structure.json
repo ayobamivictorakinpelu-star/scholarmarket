@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/create-onboarding-guide",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/create-onboarding-guide": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/create-onboarding-guide",
+    "origin"
+  ]
+}
